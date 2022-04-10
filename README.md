@@ -11,7 +11,9 @@ So, using Python and its libraries we were able to build this application.
 Solution: He is going to upload the commissions excel sheet, select all the variables of the process as inputs. Like the columns with the information, the dates in the email and the email itself. We pre-loaded all the default inputs, so he wouldn’t have to pick this information every time. So essentially all he has to do is to upload the commissions excel and click a button.
 
 Below we have a short gif of the application running.
+
 ![Comission Report](comission_report.gif)
 
 And here we have the result.
+
 ![Emails sent](emailbot.png)
