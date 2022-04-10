@@ -16,4 +16,4 @@ Below we have a short gif of the application running.
 
 And here we have the result.
 
-![Emails sent](emailbot.png)
+![Emails sent](emailbot.PNG)
